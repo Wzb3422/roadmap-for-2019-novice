@@ -1,7 +1,7 @@
 ---
-category: ncuhome
+category: Ncuhome
 tags:
-  - roadmap
+  - 新人培养
 date: 2019-09-09
 title: 家园工作室研发组19级学习路径图
 ---
@@ -31,32 +31,74 @@ A Friendly Roadmap enhancing Novice to Learn
 
 # 前端部分
 
-## JavaScript基础
+## JavaScript / ECMAScript 基础
 
-1. ECMAScript 5 **语法** 和 ECMAScript 6+ **简单语法**
-2. 了解DOM，熟悉 DOM 操作
-3. BOM常用API
-4. 原型链与继承
-5. 闭包
-6. 能够发送 Ajax 请求
-7. 知道登陆状态的存储
++ `ECMAScript 5` 语法 和 `ECMAScript 6+` 常用语法
++ 了解 `DOM` , `BOM` ，熟悉 `DOM` 操作
++ 原型链与继承
++ 了解 `this` 能够在场景下判断 `this` 的指向
++ 闭包
++ 能够发送 `Ajax` 请求
++ 知道登陆状态的存储方式
+
+::: tip
+推荐阅读：[《JavaScript 高级程序设计 第3版》](https://item.jd.com/10951037.html)
+:::
 
 ## HTML / CSS
 
-1. 常用 CSS / CSS 3 属性
-2. HTML 5 新标签
-3. 普通盒子模型 和 IE 盒子模型
-4. 常见布局
-5. 了解 CSS 预处理器
++ 常用 CSS / CSS 3 属性
++ HTML 5 新标签
++ 普通盒子模型 和 IE 盒子模型
++ 使用 CSS 完成常见布局
++ BFC
++ 了解 CSS 预处理器
 
 ## 前端框架
 
-1. 入门了解一个前端框架 Vue / React
-2. 能够使用前端框架编写小型应用
-3. 了解状态管理机制 能够解决简单的状态管理问题
++ 入门前端框架 Vue / React
++ 能够使用前端框架编写中小型应用
++ 了解状态管理机制 能够解决简单的状态管理问题
++ 了解 MVC MVVM MVP 设计模式思想
+
+# 后端部分
+
+
+
+
+
+# 计算机基础
+
++ http 基础
+  + 常见的状态码及其含义
+  + 常用的 Method
 
 ## 其他知识
 
-1. 了解前端规范，应用前端规范
-
-> 参考：[家园工作室前端代码规范](http://fe-guide.ncuos.com/)
++ 了解代码规范，应用代码规范
+::: tip
+ 参考：[家园工作室前端代码规范](http://fe-guide.ncuos.com/)
+:::
+- 了解 Linux
+  - Linux 历史与发展
+  - Linux 基础知识
+- 熟悉 Linux 基本操作
+  - 文件 / 目录操作
+  - 用户与用户组管理
+  - 常用工具（如：`ssh` `scp` `netools` `etc.`）
+- 信息查询技巧
+  - 网站
+    - Google: 信息检索质量较高，广告几乎没有。最好使用英文搜索。
+    - GitHub: README, issues
+    - Official Documentation: 毋庸置疑
+    - MDN: 前端权威的文档
+    - Stack Overflow: 高质量的问答社区
+    - 菜鸟教程: 很好入门的
+    - 知名博客: 需要甄别
+      - 阮一峰
+      - 廖雪峰
+      - 张鑫旭
+      - etc.
+    - 掘金 / Segment Fault: 需要甄别
+    - 简书: 需要甄别
+    - CSDN (Bad option): 更加需要甄别
