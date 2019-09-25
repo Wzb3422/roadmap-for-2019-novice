@@ -42,22 +42,21 @@ A Friendly Roadmap enhancing Novice to Learn
 + 知道登陆状态的存储方式
 
 ::: tip
-推荐阅读：[《JavaScript 高级程序设计 第3版》](https://item.jd.com/10951037.html)
+推荐阅读：[《JavaScript 高级程序设计 第3版》 - 人民邮电出版社](https://item.jd.com/10951037.html)
 :::
 
 ## HTML / CSS
 
 + 常用 CSS / CSS 3 属性
-+ HTML 5 新标签
++ HTML 常用标签
 + 普通盒子模型 和 IE 盒子模型
-+ 使用 CSS 完成常见布局
-+ BFC
-+ 了解 CSS 预处理器
++ 使用 CSS 完成常见布局（float、Flexbox、Grid、position、圣杯、双飞翼、etc.）
++ 了解 CSS 预处理器（Sass、Less、Stylus）
 
 ## 前端框架
 
-+ 入门前端框架 Vue / React
-+ 能够使用前端框架编写中小型应用
++ 入门一个前端框架 Vue / React
++ 能够使用前端框架编写TodoList
 + 了解状态管理机制 能够解决简单的状态管理问题
 + 了解 MVC MVVM MVP 设计模式思想
 
@@ -72,10 +71,13 @@ A Friendly Roadmap enhancing Novice to Learn
 + http 基础
   + 常见的状态码及其含义
   + 常用的 Method
+::: tip
+  推荐阅读：[《图解HTTP》 - 人民邮电出版社](https://item.jd.com/11449491.html)
+:::
 
 ## 其他知识
 
-+ 了解代码规范，应用代码规范
++ 了解代码规范，养成良好的代码风格。
 ::: tip
  参考：[家园工作室前端代码规范](http://fe-guide.ncuos.com/)
 :::
