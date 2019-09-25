@@ -63,6 +63,30 @@ A Friendly Roadmap enhancing Novice to Learn
 
 # 后端部分
 
+## Python 部分
+
+1. 了解 Pyton 的迭代器，生成器， 装饰器，匿名函数
+2. 能通过 Python 发送简单的HTTP请求， 获得响应数据
+3. 能够用BeautifulSoup 处理 2 中获得的数据
+
+## 后端框架
+
+1. 了解 Flask Web 框架 能够写简单的后台
+2. 了解用 Flask 拓展库操作数据库
+3. JSON
+
+## 数据库
+
+1. 知道现在主流的数据库
+2. 会 MySQL 数据库的 CRUD 操作
+3. 了解连表查询
+
+## Nginx & uWSGI & Docker 
+
+1. 会配置 Nginx 和 uWSGI
+2. 了解什么是 Docker
+
+ 
 
 
 
