@@ -12,7 +12,7 @@ A Friendly Roadmap enhancing Novice to Learn
 
 # 法律声明
 
-警告：本作品遵循 **署名-非商业性使用-禁止演绎3.0 未本地化版本（CC BY-NC-ND 3.0）** 协议发布。你应该明白与本文有关的一切行为都应该遵循此协议。
+**警告**：本作品遵循 **署名-非商业性使用-禁止演绎3.0 未本地化版本（CC BY-NC-ND 3.0）** 协议发布。你应该明白与本文有关的一切行为都应该遵循此协议。
 
 > [这是什么？](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)
 
@@ -47,18 +47,18 @@ A Friendly Roadmap enhancing Novice to Learn
 
 ## HTML / CSS
 
-+ 常用 CSS / CSS 3 属性
-+ HTML 常用标签
++ 常用 `CSS` / `CSS 3` 属性
++ `HTML` 常用标签
 + 普通盒子模型 和 IE 盒子模型
-+ 使用 CSS 完成常见布局（float、Flexbox、Grid、position、圣杯、双飞翼、etc.）
-+ 了解 CSS 预处理器（Sass、Less、Stylus）
++ 使用 `CSS` 完成常见布局（`float`、`Flexbox`、`Grid`、`position`、`圣杯`、`双飞翼`、etc.）
++ 了解 `CSS` 预处理器（`Sass`、`Less`、`Stylus`）
 
 ## 前端框架
 
-+ 入门一个前端框架 Vue / React
-+ 能够使用前端框架编写TodoList
++ 入门一个前端框架 `Vue` / `React`
++ 能够使用前端框架编写 TodoList
 + 了解状态管理机制 能够解决简单的状态管理问题
-+ 了解 MVC MVVM MVP 设计模式思想
++ 了解 `MVC` `MVVM` `MVP` 设计模式思想*
 
 # 后端部分
 
