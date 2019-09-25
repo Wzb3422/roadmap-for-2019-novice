@@ -1,5 +1,5 @@
 ---
-category: Ncuhome
+category: NCUHome
 tags:
   - 新人培养
 date: 2019-09-09
